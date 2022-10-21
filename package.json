@@ -36,6 +36,6 @@
     "app-root-path": "^2.2.1",
     "dotenv": "^8.2.0",
     "promise-mysql": "^4.1.0",
-    "sqlstring": "^2.3.1"
+    "sqlstring": "^2.3.3"
   }
 }
